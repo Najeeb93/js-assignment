@@ -63,16 +63,15 @@ var a ="You have visited this site 14 times"
 alert(a)
 
 //Q3
-
-//var birthYear ="My birth year is 1990 \n Date type of my declared variable is number"
-//document.write(birthYear)
+var birthYear ="My birth year is 1990 <br> Date type of my declared variable is number"
+document.write(birthYear)
 
 //Q4 
 
-var clientName=("john doe")
-var num=5;
-var storeName=("xyzclothing")
-document.write(" "+clientName+" ordered "+num+" t-shirts(s) on "+storeName+" store.")
+//var clientName=("john doe")
+//var num=5;
+//var storeName=("xyzclothing")
+//document.write(" "+clientName+" ordered "+num+" t-shirts(s) on "+storeName+" store.")
 
 
 
